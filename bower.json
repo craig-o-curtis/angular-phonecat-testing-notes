@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
-  "description": "A starter project for AngularJS",
+  "name": "angularjs-phonecat-testing-notes",
+  "description": "Notes on AngularJS Testing from Phonecat Demo App",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-phonecat",
+  "homepage": "https://github.com/craig-o-curtis/angular-phonecat-testing-notes",
   "license": "MIT",
   "private": true,
   "dependencies": {

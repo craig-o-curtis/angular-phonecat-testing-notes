@@ -2,8 +2,8 @@
   "name": "angularjs-phonecat-testing-notes",
   "private": true,
   "version": "0.0.0",
-  "description": "Notes on AngularJS Testing from Phonecat Demo APp",
-  "repository": "https://github.com/angular/angular-phonecat",
+  "description": "Notes on AngularJS Testing from Phonecat Demo App",
+  "repository": "https://github.com/craig-o-curtis/angular-phonecat-testing-notes",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
